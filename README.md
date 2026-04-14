@@ -3,7 +3,7 @@
 <h3>hi well uhh welcome ig</h3>
 <h3>Bug Bounty Hunter</h3>
 
-- Currently working on my projects **Vulnoprofen** and **CI-CD-Hunter**
+- Currently working on my projects **Vulnoprofen** and **CICD-Hunter**
 - Interested in Penetration Testing and RF Technology
 
 <h3 align="left">Languages and Tools:</h3>
