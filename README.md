@@ -7,16 +7,18 @@
 </p>
 
 ## 📌 About Me
-- Currently working on my projects:
-- Vulnoprofen - Advanced Vulnerability scanner tool
+uhhh idk what about me man
+
+### Currently working on my projects:
+- Vulnoprofen - Advanced Vulnerability Scanner Tool
 - WiFi-Scan - Cross-platform Wi-Fi scanner for the terminal. Detects nearby access points and reports SSID, BSSID etc.
-- Port Scanner - Port scanner tool written in C++
 
 
 ## 🧠 My Focus Areas
 - Penetration Testing & Ethical Hacking
 - Bug Bounty Hunting
-- Cybersecurity
+- OSINT
+- RF Sec
 
 
 ## 📊 GitHub Stats & Trophies
@@ -29,8 +31,3 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=s1erram1ke&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sierra Mike's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=s1erram1ke&theme=radical&radius=10" alt="s1erram1ke's Activity Graph" />
-</p>
-
-
